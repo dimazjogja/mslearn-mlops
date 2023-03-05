@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/LENOVO/mslearn-mlops/src/model/mlruns/0/ca40ed432bc6414a9cf2cefd36b112a3/artifacts
+end_time: 1678010119621
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ca40ed432bc6414a9cf2cefd36b112a3
+run_name: fortunate-kite-89
+run_uuid: ca40ed432bc6414a9cf2cefd36b112a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678010119574
+status: 3
+tags: []
+user_id: LENOVO

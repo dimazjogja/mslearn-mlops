@@ -38,8 +38,8 @@ def get_csvs_df(path):
 def split_data(df):
 
     # split data into features and labels
-    X = df.drop('label', axis=1)
-    y = df['label']
+    X = df.drop(['PatientID', 'Diabetic'], axis=1)
+    y = df['Diabetic']
 
     # split data into training and test sets
     X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_state=42)
