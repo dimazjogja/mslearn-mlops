@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/LENOVO/mslearn-mlops/src/model/mlruns/0/1c1ec6741b0a4c138dc69d54bf403a1a/artifacts
+end_time: 1678009051770
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1c1ec6741b0a4c138dc69d54bf403a1a
+run_name: delightful-gull-918
+run_uuid: 1c1ec6741b0a4c138dc69d54bf403a1a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678009051734
+status: 3
+tags: []
+user_id: LENOVO

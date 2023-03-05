@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/LENOVO/mslearn-mlops/src/model/mlruns/0/bb6fced355524396a40959550907a094/artifacts
+end_time: 1678009384236
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bb6fced355524396a40959550907a094
+run_name: bemused-cow-254
+run_uuid: bb6fced355524396a40959550907a094
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678009384201
+status: 3
+tags: []
+user_id: LENOVO

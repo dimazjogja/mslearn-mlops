@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/LENOVO/mslearn-mlops/src/model/mlruns/0/aa3b9e09b73b4fa199e5381cf57d2436/artifacts
+end_time: 1678009436439
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aa3b9e09b73b4fa199e5381cf57d2436
+run_name: mysterious-auk-587
+run_uuid: aa3b9e09b73b4fa199e5381cf57d2436
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678009436405
+status: 3
+tags: []
+user_id: LENOVO

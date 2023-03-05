@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/LENOVO/mslearn-mlops/src/model/mlruns/0/2820cd48f44e4890869c8812fbc30630/artifacts
+end_time: 1678009092923
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2820cd48f44e4890869c8812fbc30630
+run_name: big-stag-643
+run_uuid: 2820cd48f44e4890869c8812fbc30630
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678009092888
+status: 3
+tags: []
+user_id: LENOVO

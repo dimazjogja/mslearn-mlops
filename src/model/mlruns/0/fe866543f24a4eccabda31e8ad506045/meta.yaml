@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/LENOVO/mslearn-mlops/src/model/mlruns/0/fe866543f24a4eccabda31e8ad506045/artifacts
+end_time: 1678009350755
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fe866543f24a4eccabda31e8ad506045
+run_name: tasteful-shrike-781
+run_uuid: fe866543f24a4eccabda31e8ad506045
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678009350718
+status: 3
+tags: []
+user_id: LENOVO
